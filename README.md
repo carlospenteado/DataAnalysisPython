@@ -11,13 +11,13 @@ Sendo estes possibilitou identificar os perfis e os motivos dos clientes estarem
 
 
 ## Projeto feito em PyCharm
-![Pycharm](AnaliseDadosPythonPyChamarr.jpg)
+![Pycharm](AnaliseDadosPythonPyCharm.jpg)
 
 ## Projeto Feito no Colab
-![Colab](GoogleColabb.jpg)
+![Colab](GoogleColab.jpg)
 
 ## Base de Dados importada Google Drive arquivo "CSV"
-![BaseDados1](BaseDadosGoogleDrivee.jpg)
+![BaseDados1](BaseDadosGoogleDrive.jpg)
 ![BaseDados2](GoogleColab2.jpg)
 
 ## Grafico a partir da Biblioteca "Plotly" em Python 
